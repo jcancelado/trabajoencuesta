@@ -16,9 +16,9 @@ class Encuesta:
 
     def mostrar_resultados(self):
         print("Resultados de la encuesta:")
-        for idx, respuesta in enumerate(self.respuestas, 1):
+        for i, respuesta in enumerate(self.respuestas, 1):
             estudiante = respuesta["estudiante"]
-            print(f"Participante {idx}: {estudiante}")
+            print(f"Participante {i}: {estudiante}")
             for pregunta in self.preguntas:
                 print(f"{pregunta}: {respuesta[pregunta]}")
 

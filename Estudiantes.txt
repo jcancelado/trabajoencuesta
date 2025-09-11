@@ -1,0 +1,13 @@
+Estudiantes
+Estudiantes
+Participante 1: Nombre: Mauricio cepeda, Edad: 24, Idea de Proyecto: inventario para microempresa de perfumeria
+¿Cuál es idea de proyecto?: inventario para microempresa de perfumeria
+¿Cual es tu lenguaje de programación favorito?: python
+¿Tienes algun hobby?: microfutbol
+Resumen de la encuesta (conteo de respuestas):
+¿Cuál es idea de proyecto?:
+  inventario para microempresa de perfumeria: 1
+¿Cual es tu lenguaje de programación favorito?:
+  python: 1
+¿Tienes algun hobby?:
+  microfutbol: 1
