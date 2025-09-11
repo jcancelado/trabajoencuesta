@@ -33,3 +33,15 @@ Resumen de la encuesta (conteo de respuestas):
   c++: 1
 ¿Tienes algun hobby?:
   Entrenar: 1
+  Participante 4: Nombre: Esteban Reyez, Edad: 18, Idea de Proyecto: Turismo
+¿Cuál es idea de proyecto?: Turismo
+¿Cual es tu lenguaje de programación favorito?: C++
+¿Tienes algun hobby?: Videojuegos
+Resumen de la encuesta (conteo de respuestas):
+¿Cuál es idea de proyecto?:
+  Turismo: 1
+¿Cual es tu lenguaje de programación favorito?:
+  C++: 1
+¿Tienes algun hobby?:
+  Videojuegos: 1
+PS C:\Users\Estudiante\Downloads\trabajoencuesta>
