@@ -22,3 +22,14 @@ Resumen de la encuesta (conteo de respuestas):
   python: 1
 ¿Tienes algun hobby?:
   f1 y videojuegos: 1
+  Participante 3: Nombre: Pablo cardenas, Edad: 17, Idea de Proyecto: planificador del dia a dia
+¿Cuál es idea de proyecto?: planificador del dia a dia
+¿Cual es tu lenguaje de programación favorito?: c++
+¿Tienes algun hobby?: Entrenar
+Resumen de la encuesta (conteo de respuestas):
+¿Cuál es idea de proyecto?:
+  planificador del dia a dia: 1
+¿Cual es tu lenguaje de programación favorito?:
+  c++: 1
+¿Tienes algun hobby?:
+  Entrenar: 1
