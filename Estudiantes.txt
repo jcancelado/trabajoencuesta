@@ -11,3 +11,14 @@ Resumen de la encuesta (conteo de respuestas):
   python: 1
 ¿Tienes algun hobby?:
   microfutbol: 1
+Participante 2: Nombre: Juan Felipe Davila, Edad: 19, Idea de Proyecto: horario interactivo virtual
+¿Cuál es idea de proyecto?: horario interactivo virtual
+¿Cual es tu lenguaje de programación favorito?: python
+¿Tienes algun hobby?: f1 y videojuegos
+Resumen de la encuesta (conteo de respuestas):
+¿Cuál es idea de proyecto?:
+  horario interactivo virtual: 1
+¿Cual es tu lenguaje de programación favorito?:
+  python: 1
+¿Tienes algun hobby?:
+  f1 y videojuegos: 1
