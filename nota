@@ -1,0 +1,23 @@
+Vale, entonces te lo voy a proponer así:
+
+Quiero que crees un programa en Python usando POO que simule una biblioteca.
+Debe cumplir lo siguiente:
+
+Tener una clase Libro con atributos como título, autor y año.
+
+Tener una clase Biblioteca que:
+
+Guarde una lista de libros.
+
+Permita agregar libros.
+
+Permita mostrar todos los libros registrados.
+
+Tenga un método que muestre cuántos libros hay por autor (similar al resumen de tu encuesta).
+
+La idea es muy parecida a tu encuesta, pero ahora en vez de estudiantes y respuestas, trabajas con libros y autores.
+
+👉 Primera pregunta para arrancar:
+¿Cómo definirías la clase Libro con sus atributos en el __init__?
+
+(Es como tu clase Estudiante, pero ahora con titulo, autor y anio). ¿Quieres intentar escribirla?
